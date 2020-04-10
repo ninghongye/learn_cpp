@@ -26,7 +26,7 @@ int main()
     cout << sum<int>(8, 8) << endl;
     cout << sum<double>(8.5, 8.5) << endl;
 
-    cout << sum(5.5, 5.5) << endl;
+    cout << sum(6.5, 7.0) << endl;
 
     return 0;
 }
